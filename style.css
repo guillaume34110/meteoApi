@@ -1,0 +1,36 @@
+h1{
+  text-align: center;
+  background: #CAD2D3 ; 
+}
+html{
+  background: #CAD2D3 ; 
+  font-family: 'DotGothic16', sans-serif;
+}
+
+
+
+#map {
+    height: 100vh;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+  }
+
+  .mapboxgl-popup {
+    max-width: 200px;
+  }
+  
+  .mapboxgl-popup-content {
+    text-align: center;
+    padding: 20px;
+  }
+  .owf{
+    color:rgba(49, 41, 41, 0.7);
+    text-shadow: 0 0 3px white;
+  }
+  .mapboxgl-map{
+    font-family :'DotGothic16';
+  }
+  .temp{
+    font-size: 20px;
+  }
